@@ -1,0 +1,2 @@
+# scascratch
+scala scratch project
